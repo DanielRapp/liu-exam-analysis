@@ -6,3 +6,4 @@ created them all in the R REPL.  If you'd like verify my results, or do some
 analysis yourself, you can either scrape the data with scrape.py, or use the
 prescraped data in grades.csv, courses.csv and tests.csv
 
+See [/img](https://github.com/DanielRapp/liu-exam-analysis/tree/master/img) for the graphs.
